@@ -3,7 +3,7 @@
 
 struct Zoo {
     int Cat;
-    int Zebra;
+    int Zebranium;
     int Leo;
 
 };

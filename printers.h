@@ -12,6 +12,6 @@ void Print(const std::string& msg) {
 }
 
 void Print(const Zoo& zoo) {
-    std::cout << "Zoo: [" << zoo.Zebra << "]" << std::endl;
     std::cout << "Zoo: [" << zoo.Cat << "]" << std::endl;
+    std::cout << "Zoo: [" << zoo.Zebranium << "]" << std::endl;
 }
