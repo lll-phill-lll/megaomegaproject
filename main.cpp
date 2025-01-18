@@ -1,6 +1,6 @@
 
-#include <iostream>
+#include "printers.h"
 
 int main() {
-    std::cout << "hello world"  << std::endl;
+    Print(2);
 }
