@@ -2,7 +2,7 @@
 #pragma once
 
 struct Zoo {
-    int Zebra;
+    int Zebranium;
     int Leo;
 
 };
