@@ -6,4 +6,6 @@ int main() {
     Print(3);
     Print(4);
     Print("hello world!");
+    Zoo zoo {3, 4};
+    Print(zoo);
 }
